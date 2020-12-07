@@ -9,5 +9,5 @@ export const app = firebase.initializeApp({
   projectId: 'fir-react-auth-ef2e2',
   storageBucket: 'fir-react-auth-ef2e2.appspot.com',
   messagingSenderId: '226429138881',
-  appId: '1:226429138881:web:01288d9c1fa1c69148e140',
+  appId: '1:226429138881:web:e729ea968e16a38e48e140',
 });
