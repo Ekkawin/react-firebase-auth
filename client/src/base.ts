@@ -5,7 +5,7 @@ import 'firebase/firestore';
 export const app = firebase.initializeApp({
   apiKey: 'AIzaSyBMgFGyWpkWRJfcI7zc_liLaqVRU5YoJc4',
   authDomain: 'fir-react-auth-ef2e2.firebaseapp.com',
-  databaseURL: 'https://fir-react-auth-ef2e2-default-rtdb.firebaseio.com',
+  databaseURL: 'https://fir-react-auth-ef2e2-default-rtdb.firebaseio.com/',
   projectId: 'fir-react-auth-ef2e2',
   storageBucket: 'fir-react-auth-ef2e2.appspot.com',
   messagingSenderId: '226429138881',
